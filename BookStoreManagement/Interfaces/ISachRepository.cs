@@ -10,7 +10,7 @@ namespace BookStoreManagement.Interfaces
         bool SachExists(int MaSach);
         bool SachCreate(Sach sach);
         bool SachUpdate(Sach sach);
-        bool SachDelete(int MaSach);
+        bool SachDelete(Sach sach);
         bool Save();
     }
 }

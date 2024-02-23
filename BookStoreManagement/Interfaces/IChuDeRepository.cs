@@ -7,6 +7,7 @@ namespace BookStoreManagement.Interfaces
         ICollection<ChuDe> GetChuDes();
         ChuDe GetChuDeByMaCD(int MaCD);
         ChuDe GetChuDeByTenCD(string TenCD);
+        ICollection<Sach> GetSachByChuDe(int MaCB);
         bool ChuDeExists(int MaCD);
         bool ChuDeCreate(ChuDe ChuDe);
         bool ChuDeDelete(ChuDe ChuDe);

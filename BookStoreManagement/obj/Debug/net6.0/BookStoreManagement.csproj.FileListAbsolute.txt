@@ -66,3 +66,6 @@ C:\Users\ADMIN\Documents\Old\BackEnd_Learning\BookStoreManagement\BookStoreManag
 C:\Users\ADMIN\Documents\Old\BackEnd_Learning\BookStoreManagement\BookStoreManagement\obj\Debug\net6.0\BookStoreManagement.pdb
 C:\Users\ADMIN\Documents\Old\BackEnd_Learning\BookStoreManagement\BookStoreManagement\obj\Debug\net6.0\BookStoreManagement.genruntimeconfig.cache
 C:\Users\ADMIN\Documents\Old\BackEnd_Learning\BookStoreManagement\BookStoreManagement\obj\Debug\net6.0\ref\BookStoreManagement.dll
+C:\Users\ADMIN\Documents\Old\BackEnd_Learning\BookStoreManagement\BookStoreManagement\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ADMIN\Documents\Old\BackEnd_Learning\BookStoreManagement\BookStoreManagement\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ADMIN\Documents\Old\BackEnd_Learning\BookStoreManagement\BookStoreManagement\obj\Debug\net6.0\BookStoreManagement.sourcelink.json

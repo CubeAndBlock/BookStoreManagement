@@ -6,7 +6,6 @@ namespace BookStoreManagement.Interfaces
     {
         ICollection<DonHang> GetDonHangs();
         DonHang GetDonHangByMaDH(int MaDH);
-        DonHang GetDonHangByTenDH(string TenDH);
         bool DonHangExists(int MaDH);
         bool DonHangCreate(DonHang donHang);
         bool DonHangUpdate(DonHang donHang);

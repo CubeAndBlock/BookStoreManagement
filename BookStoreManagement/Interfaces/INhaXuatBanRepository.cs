@@ -7,6 +7,7 @@ namespace BookStoreManagement.Interfaces
         ICollection<NhaXuatBan> GetNhaXuatBans();
         NhaXuatBan GetNhaXuatBanByMaNXB(int MaNXB);
         NhaXuatBan GetNhaXuatBanByTenNXB(string TenNXB);
+        ICollection<Sach> GetSachByNXB(int MaNXB);
         bool NhaXUatBanExists(int MaNXB);
         bool NhaXuatBanCreate(NhaXuatBan nhaXuatBan);
         bool NhaXuatBanUpdate(NhaXuatBan nhaXuatBan);

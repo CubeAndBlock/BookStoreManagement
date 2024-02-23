@@ -9,7 +9,7 @@
         public string? DiaChi { get; set; }
         public int DienThoai { get; set; }
         public string? GioiTinh { get; set; }
-        public DateOnly NgaySinh { get; set; }
+        public DateTime NgaySinh { get; set; }
         public string? HoTen { get; set; }
     }
 }
